@@ -28,5 +28,5 @@ This post will continue to be updated, but also welcome submissions.
 ### Quick Access
 > You can also get the latest updates from [my blog](https://cattouch.github.io).</br>
 > For submissions, please send to ```myheartus@protonmail.com```.
-+ [ABC is the second "most politically biased media organisation in Australia"](https://github.com/cattouch/ABC/blob/main/The%20dishonest%20ABC.md)
++ [ABC is the second "most politically biased media organisation in Australia"](https://github.com/cattouch/ABC/blob/main/Archive/The%20dishonest%20ABC.md)
 + [demo]()
