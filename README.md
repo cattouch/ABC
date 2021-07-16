@@ -1,6 +1,7 @@
-# Record how stupid ABC(Australian Broadcasting Corporation) is
+# Record how stupid ABC is
 
-👋 Hi, I’m @[cattouch](https://github.com/cattouch),a student who hates liars.
+👋 Hi, I’m @[cattouch](https://github.com/cattouch),a student who hates liars.</br>
+You need to know that the ABC here refers to **[Australian Broadcasting Corporation](https://www.abc.net.au/)**
 
 
 ## [What is ABC](https://en.wikipedia.org/wiki/Australian_Broadcasting_Corporation)
