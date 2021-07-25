@@ -31,3 +31,4 @@ For submissions, please send to ```myheartus@protonmail.com```.
 ### Quick Access
 + [ABC is the second "most politically biased media organisation in Australia"](https://github.com/cattouch/ABC/blob/main/Archive/The%20dishonest%20ABC.md)
 + [Tainted employees](https://github.com/cattouch/ABC/blob/main/Archive/Tainted%20employees.md)
++ [Racial Discrimination](https://github.com/cattouch/ABC/blob/main/Archive/Racial%20Discrimination.md)
